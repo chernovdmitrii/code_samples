@@ -1,0 +1,10 @@
+C:\Users\Dmitry Chernov\Desktop\Lab_8\Lab_8\bin\Debug\Lab_8.exe.config
+C:\Users\Dmitry Chernov\Desktop\Lab_8\Lab_8\bin\Debug\Lab_8.exe
+C:\Users\Dmitry Chernov\Desktop\Lab_8\Lab_8\bin\Debug\Lab_8.pdb
+C:\Users\Dmitry Chernov\Desktop\Lab_8\Lab_8\obj\Debug\Lab_8.csprojAssemblyReference.cache
+C:\Users\Dmitry Chernov\Desktop\Lab_8\Lab_8\obj\Debug\Lab_8.Properties.Resources.resources
+C:\Users\Dmitry Chernov\Desktop\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.GenerateResource.cache
+C:\Users\Dmitry Chernov\Desktop\Lab_8\Lab_8\obj\Debug\Lab_8.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry Chernov\Desktop\Lab_8\Lab_8\obj\Debug\Lab_8.exe
+C:\Users\Dmitry Chernov\Desktop\Lab_8\Lab_8\obj\Debug\Lab_8.pdb
+C:\Users\Dmitry Chernov\Desktop\Lab_8\Lab_8\obj\Debug\Lab_8.Form1.resources
