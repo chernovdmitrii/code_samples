@@ -1,0 +1,10 @@
+C:\Users\Dmitry Chernov\Desktop\Lab_7-2\Lab_7-2\bin\Debug\Lab_7-2.exe.config
+C:\Users\Dmitry Chernov\Desktop\Lab_7-2\Lab_7-2\bin\Debug\Lab_7-2.exe
+C:\Users\Dmitry Chernov\Desktop\Lab_7-2\Lab_7-2\bin\Debug\Lab_7-2.pdb
+C:\Users\Dmitry Chernov\Desktop\Lab_7-2\Lab_7-2\obj\Debug\Lab_7-2.csprojAssemblyReference.cache
+C:\Users\Dmitry Chernov\Desktop\Lab_7-2\Lab_7-2\obj\Debug\Lab_7_2.Form1.resources
+C:\Users\Dmitry Chernov\Desktop\Lab_7-2\Lab_7-2\obj\Debug\Lab_7_2.Properties.Resources.resources
+C:\Users\Dmitry Chernov\Desktop\Lab_7-2\Lab_7-2\obj\Debug\Lab_7-2.csproj.GenerateResource.cache
+C:\Users\Dmitry Chernov\Desktop\Lab_7-2\Lab_7-2\obj\Debug\Lab_7-2.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry Chernov\Desktop\Lab_7-2\Lab_7-2\obj\Debug\Lab_7-2.exe
+C:\Users\Dmitry Chernov\Desktop\Lab_7-2\Lab_7-2\obj\Debug\Lab_7-2.pdb
