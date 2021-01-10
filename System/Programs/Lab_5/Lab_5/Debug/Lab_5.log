@@ -1,0 +1,13 @@
+﻿  Lab_5.cpp
+C:\Users\Dmitry Chernov\Desktop\Lab_5\Lab_5\Lab_5.cpp(595,26): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+C:\Users\Dmitry Chernov\Desktop\Lab_5\Lab_5\Lab_5.cpp(596,24): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+C:\Users\Dmitry Chernov\Desktop\Lab_5\Lab_5\Lab_5.cpp(597,25): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+C:\Users\Dmitry Chernov\Desktop\Lab_5\Lab_5\Lab_5.cpp(598,19): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+C:\Users\Dmitry Chernov\Desktop\Lab_5\Lab_5\Lab_5.cpp(600,22): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+C:\Users\Dmitry Chernov\Desktop\Lab_5\Lab_5\Lab_5.cpp(601,18): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+C:\Users\Dmitry Chernov\Desktop\Lab_5\Lab_5\Lab_5.cpp(602,20): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+C:\Users\Dmitry Chernov\Desktop\Lab_5\Lab_5\Lab_5.cpp(603,19): warning C4002: too many arguments for function-like macro invocation 'CreateWindowW'
+C:\Users\Dmitry Chernov\Desktop\Lab_5\Lab_5\Lab_5.cpp(620,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dmitry Chernov\Desktop\Lab_5\Lab_5\Lab_5.cpp(622,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Dmitry Chernov\Desktop\Lab_5\Lab_5\Lab_5.cpp(586): warning C4715: 'About': not all control paths return a value
+  Lab_5.vcxproj -> C:\Users\Dmitry Chernov\Desktop\Lab_5\Debug\Lab_5.exe
