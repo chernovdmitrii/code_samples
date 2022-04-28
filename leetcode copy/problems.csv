@@ -1,0 +1,4 @@
+Number,Category,Name,Difficulty,Link,Note
+1,Arrays,Two Sum,easy ,https://leetcode.com/problems/two-sum/,"use hash map to instantly check for difference value, map will add index of last occurrence of a num, don’t use same element twice;"
+104,Tree,Maximum Depth of Binary Tree,easy,https://leetcode.com/problems/maximum-depth-of-binary-tree/,recursive dfs to find max-depth of subtrees; iterative bfs to count number of levels in tree
+111,Tree,Minimum Depth of Binary Tree,easy,https://leetcode.com/problems/minimum-depth-of-binary-tree/,"recursive dfs to find min-depth of subtrees, HOWEVER use max function if there's only one part of a tree"
